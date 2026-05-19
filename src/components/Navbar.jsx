@@ -47,15 +47,6 @@ export default function Navbar() {
                         </button>
                     </div>
                 </div>
-
-                {/* Mobile Menu */}
-                {/* {mobileMenuOpen && (
-                    <div className="md:hidden py-4">
-                        <div className="flex items-center gap-3 pt-4">
-                            <ThemeToggle />
-                        </div>
-                    </div>
-                )} */}
             </div>
         </nav>
     );
