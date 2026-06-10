@@ -2,7 +2,7 @@
 
 Have real conversations with the world's most iconic figures — athletes, billionaires, historical legends, and visionaries — powered by Google's Gemma 4 AI model.
 
-**Live Demo:** [ifeanyi-buddy.netlify.app](https://Celeb-Chat.netlify.app)
+**Live Demo:** [iCeleb-Chat.netlify.app](https://Celeb-Chat.netlify.app)
 
 ---
 
